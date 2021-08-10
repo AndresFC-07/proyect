@@ -1,2 +1,4 @@
 console.log('Hello world');
-var nomre= "andres castro";
+var nomre= "ANDRES";
+var apellido="Florez castro";
+console.log('Colombiano de Nacimiento');
